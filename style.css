@@ -7,7 +7,7 @@ body,html{
     height: 100%;
     background: pink;
 }
-#wrap{
+.box{
     width: 800px;
     height: 400px;
     background: lightcyan;
